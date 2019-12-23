@@ -1,0 +1,2 @@
+applyChar = scrShotgunChar;
+applyBullet = scrNull;
